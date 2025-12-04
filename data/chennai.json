@@ -1,0 +1,137 @@
+[
+  {
+    "name": "Karthik Raj",
+    "bloodGroup": "A+",
+    "mobileNumber": "9000000201",
+    "city": "Chennai",
+    "address": "T Nagar, Chennai, Tamil Nadu",
+    "email": "karthik.raj@gmail.com",
+    "dob": "1993-03-22"
+  },
+  {
+    "name": "Divya Iyer",
+    "bloodGroup": "B+",
+    "mobileNumber": "9000000202",
+    "city": "Chennai",
+    "address": "Velachery, Chennai, Tamil Nadu",
+    "email": "divya.iyer@gmail.com",
+    "dob": "2000-07-12"
+  },
+  {
+    "name": "Prakash Rao",
+    "bloodGroup": "O+",
+    "mobileNumber": "9000000203",
+    "city": "Chennai",
+    "address": "Adyar, Chennai, Tamil Nadu",
+    "email": "prakash.rao@gmail.com",
+    "dob": "1996-02-10"
+  },
+  {
+    "name": "Meena Kumari",
+    "bloodGroup": "AB+",
+    "mobileNumber": "9000000204",
+    "city": "Chennai",
+    "address": "Anna Nagar, Chennai, Tamil Nadu",
+    "email": "meena.kumari@gmail.com",
+    "dob": "1998-05-14"
+  },
+  {
+    "name": "Arvind Kumar",
+    "bloodGroup": "O-",
+    "mobileNumber": "9000000205",
+    "city": "Chennai",
+    "address": "Guindy, Chennai, Tamil Nadu",
+    "email": "arvind.kumar@gmail.com",
+    "dob": "1994-11-01"
+  },
+  {
+    "name": "Ritika Jain",
+    "bloodGroup": "A-",
+    "mobileNumber": "9000000206",
+    "city": "Chennai",
+    "address": "Tambaram, Chennai, Tamil Nadu",
+    "email": "ritika.jain@gmail.com",
+    "dob": "1992-09-17"
+  },
+  {
+    "name": "Vignesh S",
+    "bloodGroup": "B-",
+    "mobileNumber": "9000000207",
+    "city": "Chennai",
+    "address": "Perungudi, Chennai, Tamil Nadu",
+    "email": "vignesh.s@gmail.com",
+    "dob": "1999-04-21"
+  },
+  {
+    "name": "Pavithra M",
+    "bloodGroup": "O+",
+    "mobileNumber": "9000000208",
+    "city": "Chennai",
+    "address": "Sholinganallur, Chennai, Tamil Nadu",
+    "email": "pavithra.m@gmail.com",
+    "dob": "1997-12-30"
+  },
+  {
+    "name": "Suresh Kumar",
+    "bloodGroup": "AB-",
+    "mobileNumber": "9000000209",
+    "city": "Chennai",
+    "address": "Porur, Chennai, Tamil Nadu",
+    "email": "suresh.kumar@gmail.com",
+    "dob": "1991-06-05"
+  },
+  {
+    "name": "Deepa R",
+    "bloodGroup": "A+",
+    "mobileNumber": "9000000210",
+    "city": "Chennai",
+    "address": "Mylapore, Chennai, Tamil Nadu",
+    "email": "deepa.r@gmail.com",
+    "dob": "1995-08-19"
+  },
+  {
+    "name": "Ajith Kumar",
+    "bloodGroup": "B+",
+    "mobileNumber": "9000000211",
+    "city": "Chennai",
+    "address": "Kodambakkam, Chennai, Tamil Nadu",
+    "email": "ajith.kumar@gmail.com",
+    "dob": "1993-10-12"
+  },
+  {
+    "name": "Nisha K",
+    "bloodGroup": "O+",
+    "mobileNumber": "9000000212",
+    "city": "Chennai",
+    "address": "Saidapet, Chennai, Tamil Nadu",
+    "email": "nisha.k@gmail.com",
+    "dob": "1998-01-25"
+  },
+  {
+    "name": "Ramesh T",
+    "bloodGroup": "AB+",
+    "mobileNumber": "9000000213",
+    "city": "Chennai",
+    "address": "Chromepet, Chennai, Tamil Nadu",
+    "email": "ramesh.t@gmail.com",
+    "dob": "1990-03-09"
+  },
+  {
+    "name": "Swetha V",
+    "bloodGroup": "A-",
+    "mobileNumber": "9000000214",
+    "city": "Chennai",
+    "address": "Thiruvanmiyur, Chennai, Tamil Nadu",
+    "email": "swetha.v@gmail.com",
+    "dob": "1996-07-07"
+  },
+  {
+    "name": "Kiran R",
+    "bloodGroup": "B-",
+    "mobileNumber": "9000000215",
+    "city": "Chennai",
+    "address": "OMR, Chennai, Tamil Nadu",
+    "email": "kiran.r@gmail.com",
+    "dob": "1999-12-11"
+  }
+]
