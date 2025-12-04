@@ -5,10 +5,11 @@ import path from "path";
 
 dotenv.config();
 
+const url = "MONGODB URL TO ADD DATA TO MONGODB"
 // ✅ MongoDB Connection
 const connectDB = async () => {
   try {
-    const conn = await mongoose.connect("mongodb://localhost:27017/PulseConnectDB");
+    const conn = await mongoose.connect(url);
     console.log(`✅ MongoDB Connected: ${conn.connection.host}`);
   } catch (err) {
     console.error("❌ MongoDB Connection Failed:", err.message);
