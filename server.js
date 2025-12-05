@@ -7,15 +7,14 @@ import dbConnection from "./config/dbConnection.js";
 dotenv.config()
 
 const port = process.env.PORT ||  2222;
-const app = express()
+const app = express();
 
 app.use(express.json());
 app.use(cors())
 
 app.use("/api/user",userRoutes)
 
-
+app.listen(PORT, "0.0.0.0", () => {
+  console.log(`Server running on port: ${PORT}`);
+});
 dbConnection();
-app.listen(port, ()=>{
-    console.log(`App running on port: ${port}`)
-})
