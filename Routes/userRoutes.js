@@ -7,7 +7,7 @@ import { verifyOtp } from "../controller/authController/verifyOtp.js";
 import { getBanksByCity } from "../controller/dataControllers/bloodBankController.js";
 import { createDonor, getDonorsByCity } from "../controller/dataControllers/donorController.js";
 import { createEmergencyBlood, getEmergencyBlood } from "../controller/dataControllers/emergencyBloodController.js";
-import { getProfileData } from "../controller/dataControllers/profileController.js";
+import { getProfileData,getProfileName } from "../controller/dataControllers/profileController.js";
 import { getBycityAndBloodGroup, getOnlyCities } from "../controller/dataControllers/searchController.js";
 
 const router = express.Router()
