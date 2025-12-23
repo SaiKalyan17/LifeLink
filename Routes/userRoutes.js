@@ -45,4 +45,6 @@ router.route("/reset-password").post(resetPassword);
 
 router.route("/profile").get(getProfileData)
 
+router.route("/profileName").get(getProfileName)
+
 export default router;
